@@ -1,0 +1,7 @@
+@import url(../blocks/header/__links/);
+@import url(../blocks/place/place.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__pic/place__pic.css);

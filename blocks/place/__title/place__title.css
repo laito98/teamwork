@@ -1,0 +1,11 @@
+.place__title{
+  grid-row: 1/2;
+}
+
+.place__title:nth-of-type(2n+1){
+ grid-column: 1/2;
+}
+
+.place__title:nth-of-type(2n){
+grid-column: 2/3;
+}

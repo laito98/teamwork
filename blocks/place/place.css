@@ -1,0 +1,5 @@
+.place{
+  display: grid;
+  grid-template-columns: repeat(2, 640px);
+  grid-template-rows: 400px;
+}

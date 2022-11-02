@@ -1,0 +1,14 @@
+.place__pic{
+  object-fit: cover;
+  width: 440px;
+  height: 440px;
+  grid-row: 1/2;
+}
+
+.place__pic:nth-of-type(2n+1){
+ grid-column: 1/2;
+}
+
+.place__pic:nth-of-type(2n){
+ grid-column: 2/3;
+}
